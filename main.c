@@ -2,7 +2,8 @@
 **********************   TIC TAC TOE - ROBOTICS PROJECT  ***********************
 ********************** ================================= ***********************
 --------------------------------------------------------------------------------
-CODE BY SWASTIK MOZUMDER - CLASS 8A, MGM CP School, Trivandrum
+CODE BY A STUDENT OF CLASS 8 (SECTION A) CBSE Affliated School
+This won me the first prize in school's science fair
 --------------------------------------------------------------------------------
 ================================================================================
 PROJECT SPECIFICATIONS
@@ -819,7 +820,7 @@ int main (){
   int chance; //Variable to determine who is playing now
   int board[2] ={0};
 	srand(time(NULL)); //Seed a random number in rand() by time()
-	printf("Tic Tac Toe - AI by Swastik Mozumder, Build - %d\n\n", BUILD);
+	printf("Tic Tac Toe - AI by Class 8 Student, Build - %d\n\n", BUILD);
 	printf("To enter moves, type number from 1 to 9\n\n");
 	printf(" 1 | 2 | 3 \n 4 | 5 | 6 \n 7 | 8 | 9 \n\n");
 	printf("Play (with computer) (1)st, (2)nd or play (3)Multiplayer?: ");
@@ -866,7 +867,7 @@ void loop() {
 /********************* ================================= ***********************
 **********************           AUTHOR NOTES            ***********************
 ********************** ================================= ***********************
-This whole document/code written by me, Swastik Mozumder but that does not prove
+This whole document/code written by me, (name removed) but that does not prove
 that either I had made this project alone or someone helped me in it. This code
 is not copied from anywhere or taken help from someone else, reference and rules
 of C language might be taken from ANSI C Third Edition (BOOK). Previously, I was
